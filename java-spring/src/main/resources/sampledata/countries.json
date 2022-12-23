@@ -1,0 +1,28 @@
+{
+  "countries": [
+    {
+      "isocode": "fr",
+      "names": {
+        "fr": "France",
+        "en": "France",
+        "de": "Frankreich"
+      }
+    },
+    {
+      "isocode": "en",
+      "names": {
+        "fr": "Angleterre",
+        "en": "England",
+        "de": "England"
+      }
+    },
+    {
+      "isocode": "de",
+      "names": {
+        "fr": "Allemagne",
+        "en": "Germany",
+        "de": "Deutschland"
+      }
+    }
+  ]
+}
